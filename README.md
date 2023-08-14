@@ -14,4 +14,4 @@ WASD for movement, LMB to shoot.
 
 <h2>Releases</h2>
 
-Download the pre-installed game under <a href="">Releases</a>
+Download the pre-installed game under <a href="https://github.com/vtjx/Spacelated-Game/releases">Releases</a>
